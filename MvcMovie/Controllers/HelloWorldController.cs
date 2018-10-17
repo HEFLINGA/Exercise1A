@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace MvcMovie.Controllers
 {
     // Where i left off so far; 
-    // https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-view?view=aspnetcore-2.1
+    // https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/working-with-sql?view=aspnetcore-2.1&tabs=aspnetcore2x
     public class HelloWorldController : Controller
     {
         // 
