@@ -35,25 +35,7 @@ namespace MvcMovie.Models
                          Genre = "Comedy",
                          Rating = "R",
                          Price = 8.99M
-                     },
-
-                     new Movie
-                     {
-                         Title = "Ghostbusters 2",
-                         ReleaseDate = DateTime.Parse("1986-2-23"),
-                         Genre = "Comedy",
-                         Rating = "R",
-                         Price = 9.99M
-                     },
-
-                   new Movie
-                   {
-                       Title = "Rio Bravo",
-                       ReleaseDate = DateTime.Parse("1959-4-15"),
-                       Genre = "Western",
-                       Rating = "PG",
-                       Price = 3.99M
-                   }
+                     }
                 );
                 context.SaveChanges();
             }
