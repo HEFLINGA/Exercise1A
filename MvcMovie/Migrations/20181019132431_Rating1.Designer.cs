@@ -10,7 +10,7 @@ using MvcMovie.Models;
 namespace MvcMovie.Migrations
 {
     [DbContext(typeof(MvcMovieContext))]
-    [Migration("20181019131326_Rating1")]
+    [Migration("20181019132431_Rating1")]
     partial class Rating1
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
